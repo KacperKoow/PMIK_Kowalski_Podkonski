@@ -1,0 +1,10 @@
+../Core/Src/bme280_add.c:38:8:BME280_init	24	static
+../Core/Src/bme280_add.c:74:8:get_temperature	24	static
+../Core/Src/bme280_add.c:92:8:print_temperature	16	static
+../Core/Src/bme280_add.c:112:9:get_pressure	24	static
+../Core/Src/bme280_add.c:128:8:print_pressure	16	static
+../Core/Src/bme280_add.c:148:9:get_humidity	24	static
+../Core/Src/bme280_add.c:166:8:print_humidity	16	static
+../Core/Src/bme280_add.c:190:6:user_delay_ms	16	static
+../Core/Src/bme280_add.c:199:8:user_i2c_read	56	static
+../Core/Src/bme280_add.c:207:8:user_i2c_write	56	static
